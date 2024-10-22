@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import "./styles/main.scss";
 
 const App = () => {
-  return (
-    <div>Template react App</div>
-  )
-}
+	return (
+		<div className="">
+			<div className="">fbtyhtyhty</div>
+		</div>
+	);
+};
 
-export default App
+export default App;
